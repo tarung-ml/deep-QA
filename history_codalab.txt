@@ -1,0 +1,500 @@
+  182  cd tripexpert-match
+  183  ls
+  184  cd 
+  185  ls
+  186  cd tripexpert-match
+  187  cd .tripexpert_match
+  188  cd ..
+  189  cd ..
+  190  ls -l -sort
+  191  deactivate
+  192  cd dest-poi-endpoint
+  193  virtualenv .dest_poi_endpoint
+  194  source activate .dest_poi_endpoint/bbin/activate
+  195  source .dest_poi_endpoint/bbin/activate
+  196  source .dest_poi_endpoint/bin/activate
+  197  pip install -r requirements.txt
+  198  grunt server
+  199  npm install -g grunt-cli
+  200  grunt server
+  201  grunt -v
+  202  grunt --versiobn
+  203  grunt --version
+  204  npm init
+  205  npm install grunt
+  206  grunt server
+  207   npm install grunt --save-dev
+  208  grunt server
+  209  grunt -f
+  210  grunt
+  211  npm install -g grunt-init
+  212  git clone https://github.com/gruntjs/grunt-init-gruntfile.git ~/.grunt-init/gruntfile
+  213  grunt-init gruntfile
+  214  grunt
+  215  grunt server
+  216  npm install
+  217  grunt server
+  218  grunt server --force
+  219  grunt serve
+  220  grunt serve
+  221  mdfind Gruntfile.js
+  222  nano /Users/tarun/dest-poi-endpoint/Gruntfile.js
+  223  grunt jshint
+  224  grunt server
+  225  npm install grunt-serve --save-dev
+  226  grunt.loadNpmTasks('grunt-serve');
+  227  mdfind gruntfile.js
+  228  nano /Users/tarun/dest-poi-endpoint/Gruntfile.js
+  229  grunt serve
+  230  grunt server
+  231  history
+  232  grunt serve
+  233  grunt server
+  234  grunt serve
+  235  grunt --version
+  236  git clone git://github.com/mobz/elasticsearch-head.git
+  237  cd elasticsearch-head
+  238  npm install
+  239  npm install -G grunt
+  240  npm install -g grunt-cli
+  241  grunt server
+  242  cd ..
+  243  cd ..
+  244  rsync -rv --exclude=.git nlp-dest-api/* dest-poi-endpoint
+  245  ls
+  246  ls -l -sort
+  247  cd dest-poi-endpoint
+  248  mdfind -onlyin ./ 'region'
+  249  ls
+  250  cd aoo
+  251  cd app
+  252  mdfind -onlyin ./ 'region'
+  253  mdfind -onlyin ./ 'polygon'
+  254  nano /Users/tarun/dest-poi-endpoint/app/utils/elastic_search_examples.py
+  255  cd ..
+  256  ls
+  257  lx
+  258  ls
+  259  ls -l -sort
+  260  cd nlp-dest-api
+  261  git pull
+  262  cd ..
+  263  cd Downloads/assignment4
+  264  ls
+  265  source activate deep
+  266  python
+  267  ssh enrichment
+  268  ssh enrichment
+  269  curl
+  270  mdfind getaway
+  271  cd dest-poi-endpoint
+  272  s
+  273  ls
+  274  history
+  275  source .dest_poi_endpoint/bin/activate
+  276  mdfind -onlyin ./ 'destination_id'
+  277  grunt server
+  278  grunt serve
+  279  grunt server
+  280  ls
+  281  cd elasticsearch-head
+  282  grunt server
+  283  python
+  284  grunt server
+  285  ssh cs224n@52.168.17.233
+  286  python
+  287  cd Downloads/assignment4
+  288  ls
+  289  git branch
+  290  git reset --hard eebf3da
+  291  ls
+  292  source activate deep
+  293  python
+  294  ls
+  295  git add .
+  296  git commit -a -m "copy hyperparams for last bbest run"
+  297  git rm -r --cached .
+  298  git add .
+  299  git commit -a -m "copy hyperparams for last bbest run"
+  300  git push
+  301  git reset --hard eebf3da
+  302  git add .
+  303  git commit -a -m "copy hyperparams for last bbest run"
+  304  git push
+  305  python
+  306  python
+  307  git add .
+  308  git commit -a -m "try filter layer, mean matching"
+  309  git show
+  310  git push
+  311  git add .
+  312  git commit -a -m "dropout after filter layer"
+  313  git show
+  314  git push
+  315  git reset --hard 726fa84
+  316  git add .
+  317  git commit -a -m "go bback to full layer"
+  318  git push
+  319  git add .
+  320  git commit -a -m "try something to fix weird tf error that occurs after 10 epochs"
+  321  git push
+  322  git reset --hard 1acdb29
+  323  cd ..
+  324  l
+  325  cp cs224n@cs224n-gpu/assignment4_f1_39_run/code* code
+  326  mkdir code
+  327  mkdir f1_39
+  328  cp cs224n@cs224n-gpu/assignment4_f1_39_run/code/* f1_39/
+  329  cp cs224n@cs224n-gpu:assignment4_f1_39_run/code/* f1_39/
+  330  cp cs224n@cs224n-gpu:/home/cs224n/assignment4_f1_39_run/code/* f1_39/
+  331  scp -r cs224n@cs224n-gpu:/home/cs224n/assignment4_f1_39_run/code/* f1_39/
+  332  scp -r cs224cs224n@52.170.43.43:/home/cs224n/assignment4_f1_39_run/code/* f1_39/
+  333  scp -r cs224n@52.170.43.43:/home/cs224n/assignment4_f1_39_run/code/* f1_39/
+  334  git add .
+  335  cd assignment4
+  336  git add .
+  337  git commit -a -m "baseline: f1:28, em:20 after epoch 2"
+  338  git push
+  339  git reset --hard c72503b
+  340  python
+  341  git add .
+  342  git commit -a -m "add span loss, answer length as labels placeholder"
+  343  git rm --r cached .
+  344  git rm -r --cached .
+  345  git add .
+  346  git commit -a -m "add span loss, answer length as labels placeholder"
+  347  git push
+  348  git show
+  349  git show
+  350  git reset --hard c72503b
+  351  git reset --hard c72503b
+  352  git add .
+  353  git commit -a -m "add span loss, answer length as labels placeholder"
+  354  git show
+  355  git show
+  356  git push
+  357  git add .
+  358  git commit -a -m "some fixes to support span loss"
+  359  git push
+  360  python
+  361  git add .
+  362  git rm -r --cached .
+  363  git add .
+  364  git commit -a -m "try span loss with mpcm"
+  365  git rm -r --cached .
+  366  git add .
+  367  git commit -a -m "try span loss with mpcm"
+  368  git show
+  369  git push
+  370  git reset --hard 74fd17a
+  371  git add .
+  372  git commit -a -m "try span loss with mpcm"
+  373  git show
+  374  git push
+  375  git add .
+  376  git commit -a -m "try all matchings in matching layer"
+  377  git show
+  378  git rm -r --cached .
+  379  git add .
+  380  git commit -a -m "try all matchings in matching layer"
+  381  git show
+  382  git push
+  383  ssh cs224n@52.168.169.36
+  384  ls
+  385  ls -l -sort
+  386  cd dest-poi-endpoint
+  387  ls
+  388  source .dest_poi_endpoint/bin/activate
+  389  ls -l -sort
+  390  cd dest-poi-endpoint
+  391  ls
+  392  source .dest_poi_endpoint/bbin/activate
+  393  source .dest_poi_endpoint/bin/activate
+  394  grunt server
+  395  history
+  396  cd elasticsearch-head
+  397  grunt server
+  398  ssh cs224n@52.168.17.233
+  399  ssh cs224n@52.168.17.233
+  400   ssh cs224n@52.170.43.43
+  401   ssh cs224n@52.170.43.43
+  402   ssh cs224n@52.170.43.43
+  403  ssh cs224n@52.170.43.43
+  404  ssh cs224n@52.168.169.36
+  405  ssh cs224n@52.168.169.36
+  406  ssh cs224n@52.168.169.36
+  407  ssh cs224n@52.168.169.36
+  408  ssh cs224n@52.168.169.36
+  409  ssh cs224n@52.168.169.36
+  410  ssh cs224n@52.168.169.36
+  411  ssh cs224n@52.168.169.36
+  412  ssh cs224n@52.168.169.36
+  413  ssh cs224n@52.170.25.127
+  414  ssh cs224n@52.170.25.127
+  415  ssh cs224n@52.170.25.127
+  416  cd Downloads/assignment4
+  417  source activate deep
+  418  git add .
+  419  git commit -a -m "try some changes in attention"
+  420  git show
+  421  git push
+  422  git add .
+  423  git commit -a -m "setup ensemble"
+  424  git rm -r --cached .
+  425  git add .
+  426  git commit -a -m "setup ensemble of MPCM + COATT"
+  427  git oush
+  428  git push
+  429  git add .
+  430  git commit -a -m "update qa_answer to account for refactor of load_data"
+  431  git push
+  432  python code/qa_answer.p
+  433  python code/qa_answer.py
+  434  python code/qa_answer.py
+  435  git add qa_answer
+  436  git add qa_answer.py
+  437  ls
+  438  git add code/qa_answer.py
+  439  git commit -a -m "update qa_answer to account for refactor of load_data"
+  440  git show
+  441  git push
+  442  git reset --hard 
+  443  git add .
+  444  git commit -a -m "try perhaps small fix to ensembling"
+  445  git show
+  446  git oush
+  447  git push
+  448  scp -r cs224n@52.168.7.0:assignment4_f1_61_run_COATT  assignment4_f1_61_run_COATT 
+  449  ssh cs224n@52.168.7.0
+  450  cd Downloads
+  451  scp cs224n@52.168.7.0:assignment4_f1_56_run_MPCM assignment4_f1_56_run_MPCM
+  452  scp -r cs224n@52.168.7.0:assignment4_f1_56_run_MPCM assignment4_f1_56_run_MPCM
+  453  python3
+  454  ls
+  455  ls -l -sort
+  456  cd nlp-dest-poi
+  457  cd nlp-dest-api
+  458  ls
+  459  git pul
+  460  git pull
+  461  cd ..
+  462  rsync -rv --exclude=.git nlp-dest-api/* dest-poi-endpoint
+  463  ls
+  464  ls -l -sort
+  465  ls
+  466  ls -l -sort
+  467  cd dest-poi-endpoint
+  468  ls
+  469  nano requirements.txt
+  470  source .dest_poi_endpoint/bin/activate
+  471  pip install requests
+  472  cd dest-poi-endpoint
+  473  source .dest_pos_endpoint/bbin/activate
+  474  source .dest_pos_endpoint/bin/activate
+  475  ls
+  476  source .dest_poi_endpoint/bin/activate
+  477  ls
+  478  grunt server
+  479  history
+  480  cd elasticsearch-head
+  481  grunt server
+  482  ssh cs224n@40.114.50.224
+  483  ssh cs224n@40.114.50.224
+  484  ssh cs224n@40.114.50.224
+  485  ssh cs224n@40.71.215.190
+  486  ssh cs224n@52.168.163.138
+  487  history
+  488  scp cs224n@52.168.163.138:assignment4_f1_56_run_MPCM/code/qa_answer.py qa_answer.py
+  489  ssh cs224n@52.168.163.138
+  490  ssh cs224n@52.168.163.138
+  491  ssh cs224n@52.168.1.74
+  492  cd notebooks
+  493* 
+  494  ssh cs224n@52.168.1.74
+  495  scp -r cs224n@52.168.1.74:assignment4_f1_56_run_MPCM/plots/ Downloads/assignment4_f1_56_run_MPCM/
+  496  scp -r cs224n@52.168.1.74:assignment4_f1_61_run_COATT/plots/ Downloads/assignment4_f1_61_run_COATT/
+  497  ssh cs224n@52.168.1.74
+  498  ssh cs224n@52.168.1.74
+  499  ssh cs224n@52.168.1.74
+  500  ssh cs224n@52.168.1.74
+  501  source activate deep
+  502  cd assignment4
+  503  cd Downloads/assignment4
+  504  ;s
+  505  ls
+  506  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  507  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  508  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  509  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  510  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  511  pwd
+  512  python code/evaluate.py data/squad/dev-v1.1.json dev-prediction.json
+  513  git add .
+  514  git commit -a -m "tried ensemble"
+  515  nano .gitignore
+  516  nano .gitignore
+  517  git push
+  518  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  519  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  520  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  521  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  522  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  523  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  524  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  525  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  526  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  527  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  528  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  529  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  530  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  531  python
+  532  cd code
+  533  ls
+  534  python
+  535  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  536  cd ..
+  537  python assignment4_f1_61_run_COATT/code/qa_answer.py
+  538* 
+  539  nano preds_dev.txt
+  540* 
+  541  nano .gitignore
+  542  nano preds_dev.txt
+  543  nano preds_dev.txt
+  544  nano preds_dev.txt
+  545  python code/evaluate.py data/squad/dev-v1.1.json dev-prediction.json
+  546  git add .
+  547  git commit -a -m "refactored ensemble"
+  548  git push
+  549  pip install codalab-cli
+  550  cl work main ::
+  551  cl work main::
+  552  cl new cs224n-model
+  553  cl work cs224n-model
+  554  cl wperm . public none
+  555  cl wperm . cs224n-win17-staff read
+  556  cl work main::
+  557  cl new cs224n-tarungabajenov
+  558  cl work cs224n-tarungabajenov
+  559  cl wperm . public none
+  560  cl wperm . cs224n-win17-staff read
+  561  cl gnew cs224n-tarungabajenov
+  562  cl wperm cs224n-tarungabajenov cs224n-tarungabajenov all
+  563  cl work main::cs224n-tarungabajenov
+  564  ls
+  565  cl upload code
+  566  cl upload data
+  567  ls
+  568  cl upload ensemble_train_COATT
+  569  cl upload code
+  570  cl upload ensemble_train_MPCM
+  571  cl ls
+  572  cl cat data
+  573  cl run --name run-predict --request-docker-image sckoo/cs224n-squad:v4 :code :data :ensemble_train_COATT :ensemble_train_MPCM dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  574  cl info --verbose run-predict
+  575  cl wait --tail run-predict
+  576  cl cat run-predict/stderr
+  577  docker pull sckoo/cs224-squad:v4
+  578  docker pull sckoo/cs224n-squad:v4
+  579  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :ensemble_train_MPCM :ensemble_train_COATT
+  580  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :train
+  581  cl edit-image --request-docker-image sckoo/cs224n-squad:v4
+  582  cl edit -image --request-docker-image sckoo/cs224n-squad:v4
+  583  cl edit --image --request-docker-image sckoo/cs224n-squad:v4
+  584  cl edit
+  585  cl edit -image
+  586  cl edit-image
+  587  pip install codalab-cli
+  588  cl edit-image
+  589  nano .gitignore
+  590  git add .
+  591  git commit -a -m "further refactoring for ensemble"
+  592  git show
+  593  git push
+  594  cl edit - image
+  595  docker pull sckoo/cs224n-squad:v4
+  596  docker pull sckoo/cs224n-squad:v4
+  597  history
+  598  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :train
+  599  pip install codalab-cli --upgrade
+  600  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :train
+  601  cl commit-image c4e1246f55e2 tarungml/squad:v1
+  602  cl push-image tarungml/squad:v1
+  603  docker login
+  604  cl push-image tarungml/squad:v1
+  605  cl work main::cs224n-tarungabajenov
+  606  ls
+  607  cl upload train
+  608  cl upload code
+  609  cl ls
+  610  cl cat data
+  611  history
+  612  cl run --name run-predict --request-docker-image sckoo/cs224n-squad:v4 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  613  cl info --verbose run-predict
+  614  cl wait --tail run-predict
+  615  cl run --name run-predict --request-docker-image tarungml/squad:v1 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  616  cl info --verbose run-predict
+  617  cl wait --tail run-predict
+  618  cl upload code
+  619  cl run --name run-predict --request-docker-image tarungml/squad:v1 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  620  cl wait --tail run-predict
+  621  cl upload code
+  622  cl run --name run-predict --request-docker-image tarungml/squad:v1 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  623  cl wait --tail run-predict
+  624  cl wait --tail run-predict
+  625  python code/ensemble_qa_answer.py --dev_path dev.json
+  626  python code/ensemble_qa_answer.py --dev_path dev.json
+  627  python code/ensemble_qa_answer.py --dev_path dev.json
+  628  python code/ensemble_qa_answer.py --dev_path dev.json
+  629  python code/ensemble_qa_answer.py --dev_path dev.json
+  630  python code/ensemble_qa_answer.py --dev_path dev.json
+  631  cl upload code
+  632  cl run --name run-predict --request-docker-image tarungml/squad:v1 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  633  cl wait --tail run-predict
+  634  cl wait --tail run-predict
+  635  cl upload code
+  636  cl run --name run-predict --request-docker-image tarungml/squad:v1 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  637  cl wait --tail run-predict
+  638  cl upload code
+  639  cl run --name run-predict --request-docker-image tarungml/squad:v1 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  640  cl wait --tail run-predict
+  641  python code/ensemble_qa_answer.py --dev_path dev.json
+  642  cl upload code
+  643  cl run --name run-predict --request-docker-image tarungml/squad:v1 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  644  cl wait --tail run-predict
+  645  cl upload code
+  646  cl run --name run-predict --request-docker-image tarungml/squad:v1 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  647  cl wait --tail run-predict
+  648  python code/ensemble_qa_answer.py --dev_path dev.json
+  649  docker pull tarungml/squad:v1
+  650  cl edit-image --request-docker-image tarungml/squad:v1 :code :data :train
+  651  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :train
+  652  source deactivate
+  653  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :train
+  654  source activate deep
+  655  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :train
+  656* 
+  657  source deactivate && pip install codalab-cli --upgrade
+  658  pip install codalab-cli --upgrade
+  659  pip install httplib
+  660  conda install httplib
+  661* 
+  662  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :train
+  663  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :train
+  664  python
+  665  cl edit-image --request-docker-image sckoo/cs224n-squad:v4 :code :data :train
+  666  cl commit-image c173941d3bc6 tarungml/squad:v2
+  667  docker login
+  668  cl push-image tarungml/squad:v2
+  669  cl upload code
+  670  cl upload code
+  671  cl run --name run-predict --request-docker-image tarungml/squad:v2 :code :data :train dev.json:0x4870af2556994b0687a1927fcec66392 'python code/ensemble_qa_answer.py --dev_path dev.json'
+  672  cl wait --tail run-predict
+  673  cl edit run-predict -T cs224n-win17-submit-sanity-check
+  674  cl wait --tail run-predict
+  675  cl wait --tail run-predict
+  676  cl cat run-predict/dev-prediction.json
+  677  cl edit run-predict -T cs224n-win17-submit-dev
+  678  cl wait --tail run-predict
+  679  cl wait --tail run-predict
+  680  history
+  681  history > history_codalab.txt

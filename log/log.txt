@@ -1,0 +1,2951 @@
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 0
+Number of params: 0 (retreival took 0.000018 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 0
+Number of params: 0 (retreival took 0.000010 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 0
+Number of params: 0 (retreival took 0.000010 secs)
+Epoch 1 out of 10
+From /Users/tarun/Downloads/assignment4/code/qa_model.py:407: initialize_all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Use `tf.global_variables_initializer` instead.
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 0
+Number of params: 0 (retreival took 0.000011 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 0
+Number of params: 0 (retreival took 0.000006 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 0
+Number of params: 0 (retreival took 0.000009 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 0
+Number of params: 0 (retreival took 0.000010 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 0
+Number of params: 0 (retreival took 0.000009 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 2.534835 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.983750 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.516452 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.483729 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.466685 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Epoch 5 out of 10
+Epoch 6 out of 10
+Epoch 7 out of 10
+Epoch 8 out of 10
+Epoch 9 out of 10
+Epoch 10 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.545151 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Epoch 5 out of 10
+Epoch 6 out of 10
+Epoch 7 out of 10
+Epoch 8 out of 10
+Epoch 9 out of 10
+Epoch 10 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.608704 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.512626 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Epoch 5 out of 10
+Epoch 6 out of 10
+Epoch 7 out of 10
+Epoch 8 out of 10
+Epoch 9 out of 10
+Epoch 10 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.515472 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.531142 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.501932 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.570013 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.668898 secs)
+Epoch 1 out of 10
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.483435 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.497590 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.597733 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.650119 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Epoch 5 out of 10
+Epoch 6 out of 10
+Epoch 7 out of 10
+Epoch 8 out of 10
+Epoch 9 out of 10
+Epoch 10 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.453249 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Epoch 5 out of 10
+Epoch 6 out of 10
+Epoch 7 out of 10
+Epoch 8 out of 10
+Epoch 9 out of 10
+Epoch 10 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.624867 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Epoch 5 out of 10
+Epoch 6 out of 10
+Epoch 7 out of 10
+Epoch 8 out of 10
+Epoch 9 out of 10
+Epoch 10 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.647148 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.445205 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.706029 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Epoch 5 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.684816 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Epoch 5 out of 10
+Epoch 6 out of 10
+Epoch 7 out of 10
+Epoch 8 out of 10
+Epoch 9 out of 10
+Epoch 10 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.491857 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.466712 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.467047 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.450901 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.502100 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.455609 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.444951 secs)
+Epoch 1 out of 10
+Epoch 2 out of 10
+Epoch 3 out of 10
+Epoch 4 out of 10
+Epoch 5 out of 10
+Epoch 6 out of 10
+Epoch 7 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.456616 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.458780 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Epoch 2 out of 10
+Evaluating on development data
+Epoch 3 out of 10
+Evaluating on development data
+Epoch 4 out of 10
+Evaluating on development data
+Epoch 5 out of 10
+Evaluating on development data
+Epoch 6 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.449860 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Epoch 2 out of 10
+Evaluating on development data
+Epoch 3 out of 10
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.418072 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.14/0.00
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.61/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.62/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.28/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.49/0.00
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.95/0.00
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.76/0.00
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.58/0.00
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.76/0.00
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.68/0.00
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.442816 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.22/0.00
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 10.32/3.12
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 14.27/9.38
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 18.77/9.38
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 27.11/15.62
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 30.93/15.62
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 37.32/15.62
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 39.58/18.75
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 42.74/21.88
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 42.91/18.75
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 2.090535 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.62/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.37/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.62/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.32/0.00
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.12/0.00
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.65/3.12
+New best score! Saving model in train/model.weights
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.69/3.12
+New best score! Saving model in train/model.weights
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.07/3.12
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.25/3.12
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11777872 (retreival took 1.592042 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.62/3.12
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.82/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.23/3.12
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.53/3.12
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.10/0.00
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.53/3.12
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.59/3.12
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.37/3.12
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.19/3.12
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.99/3.12
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11777872 (retreival took 2.401911 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.13/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.19/3.12
+New best score! Saving model in train/model.weights
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.77/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.38/3.12
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.39/3.12
+New best score! Saving model in train/model.weights
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.10/3.12
+New best score! Saving model in train/model.weights
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.59/3.12
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.22/3.12
+New best score! Saving model in train/model.weights
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.14/3.12
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.51/3.12
+New best score! Saving model in train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11777872 (retreival took 1.835690 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.25/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.76/3.12
+New best score! Saving model in train/model.weights
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.19/3.12
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.40/3.12
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.12/3.12
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.16/3.12
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.58/3.12
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.92/3.12
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.15/3.12
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.28/3.12
+Best score detected this run : 7.76339285714 
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11777872
+Number of params: 11777872 (retreival took 1.429455 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.68/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.15/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.57/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.04/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.64/3.12
+New best score! Saving model in train/model.weights
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.17/3.12
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.19/0.00
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.08/0.00
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.04/0.00
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.82/3.12
+Best f1 score detected this run : 4.6433507371 
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11777872 (retreival took 1.138980 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.48/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.04/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.52/3.12
+New best score! Saving model in train/model.weights
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.52/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.00/3.12
+New best score! Saving model in train/model.weights
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.04/0.00
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.63/0.00
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.03/0.00
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.80/0.00
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.98/3.12
+New best score! Saving model in train/model.weights
+Best f1 score detected this run : 7.97916666667 
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11777872 (retreival took 1.416728 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 216572 (retreival took 1.120077 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.14/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.90/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.73/0.00
+New best score! Saving model in train/model.weights
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.21/0.00
+Epoch 5 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 222332
+Number of params: 222332 (retreival took 1.360858 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.77/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 6 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 222332 (retreival took 1.343857 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.16/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.53/0.00
+New best score! Saving model in train/model.weights
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 6 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 231932
+Number of params: 231932 (retreival took 1.357921 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.75/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.29/0.00
+New best score! Saving model in train/model.weights
+Epoch 3 out of 10
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 231932 (retreival took 1.343138 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.34/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Created model with fresh parameters.
+Num params: 171200
+Number of params: 171200 (retreival took 0.893991 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.22/3.12
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.41/0.00
+Epoch 3 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Created model with fresh parameters.
+Num params: 1632800
+Number of params: 1632800 (retreival took 1.885797 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.01/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.40/0.00
+New best score! Saving model in train/model.weights
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.18/3.12
+New best score! Saving model in train/model.weights
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.43/3.12
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.74/3.12
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.72/3.12
+New best score! Saving model in train/model.weights
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.25/3.12
+Best f1 score detected this run : 6.71543481295 
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Created model with fresh parameters.
+Num params: 892400
+Number of params: 892400 (retreival took 1.384709 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.42/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Created model with fresh parameters.
+Num params: 3772400
+Number of params: 3772400 (retreival took 1.295347 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.45/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.31/0.00
+New best score! Saving model in train/model.weights
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.14/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.16/0.00
+New best score! Saving model in train/model.weights
+Epoch 6 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 3772400 (retreival took 1.215558 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.12/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.33/0.00
+New best score! Saving model in train/model.weights
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.55/0.00
+Epoch 4 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 3772400 (retreival took 1.414993 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 892400 (retreival took 1.178300 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 171200 (retreival took 1.010632 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 3051200 (retreival took 1.731092 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.62/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.14/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.25/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.03/3.12
+New best score! Saving model in train/model.weights
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.37/0.00
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.23/0.00
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.14/0.00
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.61/0.00
+Epoch 9 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 50
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 3051200 (retreival took 0.905816 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.65/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3111200
+Number of params: 3111200 (retreival took 0.917993 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.89/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.90/0.00
+New best score! Saving model in train/model.weights
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.29/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.36/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.13/0.00
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.89/3.12
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.93/0.00
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.50/3.12
+Epoch 9 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.69/3.12
+Epoch 10 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.42/3.12
+Best f1 score detected this run : 5.89810832513 
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 3111200 (retreival took 0.969364 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.78/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.28/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.29/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.71/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.13/0.00
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.57/0.00
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.91/0.00
+Epoch 8 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.16/0.00
+Epoch 9 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3111200
+Number of params: 3111200 (retreival took 0.933043 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.07/0.00
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.27/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.07/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.95/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 1.54/0.00
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.71/3.12
+Epoch 7 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 357800
+Number of params: 357800 (retreival took 1.813143 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.73/0.00
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.69/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.48/0.00
+Epoch 4 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 357800
+Number of params: 357800 (retreival took 1.895445 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.27/0.00
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.33/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.03/3.12
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.46/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.57/0.00
+Epoch 6 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.89/0.00
+Epoch 7 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.18/0.00
+Epoch 8 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.085599 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.12/0.00
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.29/0.00
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.40/0.00
+Epoch 4 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.37/0.00
+Epoch 5 out of 10
+Evaluating on development data
+Entity level F1/EM: 6.39/3.12
+Epoch 6 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.787179 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 2.08/0.00
+Epoch 2 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 3.101547 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 2 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3111200
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3111200
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3111200
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3111200
+Number of params: 3111200 (retreival took 1.658212 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3111200
+Number of params: 3111200 (retreival took 1.742002 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.57/2.64
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.70/1.44
+Epoch 3 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.875204 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3832400
+Number of params: 3832400 (retreival took 1.913155 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3111200
+Number of params: 3111200 (retreival took 1.413880 secs)
+Epoch 1 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3111200
+Number of params: 3111200 (retreival took 1.431117 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 7.31/4.81
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 4.66/2.16
+Epoch 3 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.55/1.68
+Epoch 4 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3110400
+Number of params: 3110400 (retreival took 1.018410 secs)
+Epoch 1 out of 10
+Evaluating on development data
+Entity level F1/EM: 3.81/2.40
+Epoch 2 out of 10
+Evaluating on development data
+Entity level F1/EM: 5.28/3.61
+Epoch 3 out of 10
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 3110400
+Number of params: 3110400 (retreival took 0.964294 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.208004 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.251358 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.240114 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.241170 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 2.33/0.00
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 8.33/6.25
+Epoch 3 out of 20
+Evaluating on development data
+Entity level F1/EM: 6.28/3.12
+Epoch 4 out of 20
+Evaluating on development data
+Entity level F1/EM: 3.66/3.12
+Epoch 5 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.129653 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 0.00/0.00
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 0.08/0.00
+Epoch 3 out of 20
+Evaluating on development data
+Entity level F1/EM: 5.71/0.00
+Epoch 4 out of 20
+Evaluating on development data
+Entity level F1/EM: 3.20/0.00
+Epoch 5 out of 20
+Evaluating on development data
+Entity level F1/EM: 1.54/0.00
+Epoch 6 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.167714 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 2.87/0.00
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 2.67/0.00
+Epoch 3 out of 20
+Evaluating on development data
+Entity level F1/EM: 3.58/0.00
+Epoch 4 out of 20
+Evaluating on development data
+Entity level F1/EM: 7.37/0.00
+Epoch 5 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11919100
+Number of params: 11919100 (retreival took 2.296421 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 1.28/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 4.48/0.00
+New best score! Saving model in train/model.weights
+Epoch 3 out of 20
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 2.627545 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 2.441903 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 3.34/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 5.94/0.00
+New best score! Saving model in train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 12054900 (retreival took 2.536252 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 2.13/0.00
+New best score! Saving model in train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11883820
+Number of params: 11883820 (retreival took 1.714100 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11883820
+Number of params: 11883820 (retreival took 1.565294 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11883820
+Number of params: 11883820 (retreival took 1.756932 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 2.84/0.00
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 2.52/0.00
+Epoch 3 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11883820 (retreival took 1.411169 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11773420
+Number of params: 11773420 (retreival took 1.722407 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11773420
+Number of params: 11773420 (retreival took 1.858700 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11773420
+Number of params: 11773420 (retreival took 1.644899 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11773420
+Number of params: 11773420 (retreival took 1.605099 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11773420
+Number of params: 11773420 (retreival took 1.710203 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 14.55/8.81
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11773420 (retreival took 1.443259 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 17.45/11.07
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11773426
+Number of params: 11773426 (retreival took 1.692438 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 14.69/9.07
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11774026
+Number of params: 11774026 (retreival took 1.740344 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 14.32/8.67
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11773426
+Number of params: 11773426 (retreival took 1.868152 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 17.33/11.11
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11773426 (retreival took 1.561725 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 16.79/11.11
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11773426 (retreival took 1.572340 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 17.79/11.80
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11773426 (retreival took 1.304565 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 18.61/12.57
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 17.67/11.87
+Epoch 3 out of 20
+Evaluating on development data
+Entity level F1/EM: 17.47/11.40
+Epoch 4 out of 20
+Evaluating on development data
+Entity level F1/EM: 17.68/11.61
+Epoch 5 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11773426 (retreival took 1.311434 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11773426
+Number of params: 11773426 (retreival took 2.167896 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 15.02/9.33
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11773426 (retreival took 1.392866 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 19.19/12.62
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 17.95/11.65
+Epoch 3 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11773426 (retreival took 1.500192 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11773426 (retreival took 1.605914 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 19.57/13.06
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 19.50/13.25
+Epoch 3 out of 20
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.900856 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 4.050687 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12094900
+Number of params: 12094900 (retreival took 2.718884 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12214900
+Number of params: 12214900 (retreival took 4.045973 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12214900
+Number of params: 12214900 (retreival took 3.125462 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 2.886428 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.123016 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.202901 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 2.944999 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.248580 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.168501 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 4.002981 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.710340 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.956214 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.097195 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.067202 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.048326 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 2.782170 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 4.257065 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 2.759153 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.107371 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.098152 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.348050 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 11884426
+Number of params: 11884426 (retreival took 1.679813 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 21.85/14.73
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 27.53/19.38
+New best score! Saving model in train/model.weights
+Epoch 3 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11884426 (retreival took 1.448594 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11884426 (retreival took 1.917970 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11884426 (retreival took 1.417305 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11884426 (retreival took 1.718677 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11884426 (retreival took 1.899819 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 27.51/19.48
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 27.57/19.62
+New best score! Saving model in train/model.weights
+Epoch 3 out of 20
+Evaluating on development data
+Entity level F1/EM: 27.51/19.60
+Epoch 4 out of 20
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.963812 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11884426 (retreival took 1.916768 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11884426 (retreival took 1.491824 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 29.17/20.82
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Number of params: 11884426 (retreival took 1.737870 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Entity level F1/EM: 28.53/19.60
+New best score! Saving model in train/model.weights
+Epoch 2 out of 20
+Evaluating on development data
+Entity level F1/EM: 28.14/18.23
+Epoch 3 out of 20
+Evaluating on development data
+Entity level F1/EM: 27.41/18.33
+Epoch 4 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 3.630112 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12054900
+Number of params: 12054900 (retreival took 2.832028 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 12214900
+Number of params: 12214900 (retreival took 2.833166 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 17649300
+Number of params: 17649300 (retreival took 2.791798 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 17649300
+Number of params: 17649300 (retreival took 2.529613 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 17649300
+Number of params: 17649300 (retreival took 2.520708 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 17650900
+Number of params: 17650900 (retreival took 2.392520 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 18143700
+Number of params: 18143700 (retreival took 8.706909 secs)
+Epoch 1 out of 20
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 18143700
+Number of params: 18143700 (retreival took 7.725089 secs)
+Epoch 1 out of 20
+Created model with fresh parameters.
+Num params: 15358500
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 18143700
+Number of params: 18143700 (retreival took 7.612083 secs)
+Epoch 1 out of 20
+Evaluating on development data
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Reading model parameters from /tmp/cs224n-squad-train/model.weights
+Training samples read... 81381
+Dev samples read... 4284
+Loading embeddings
+Embeddings loaded with shape: 115613 100
+Created model with fresh parameters.
+Num params: 18143700
+Number of params: 18143700 (retreival took 8.100066 secs)
+Epoch 1 out of 20
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_COATT/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_COATT/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_COATT/model.weights
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 12214900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 17650900
+Created model with fresh parameters.
+Num params: 17650900
+Reading model parameters from assignment4_f1_56_run_MPCM/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from assignment4_f1_61_run_COATT/train/model.weights
+Reading model parameters from ensemble_train_MPCM/model.weights
+Reading model parameters from ensemble_train_COATT/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_COATT/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_COATT/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_COATT/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM_fixed/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_MPCM_fixed/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_MPCM_p100/model.weights
+Created model with fresh parameters.
+Num params: 12214900
+Reading model parameters from train/ensemble_train_MPCM_2/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_COATT/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_COATT_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_COATT/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed/model.weights
+Reading model parameters from train/ensemble_train_COATT_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights
+Reading model parameters from train/ensemble_train_MPCM/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed/model.weights
+Reading model parameters from train/ensemble_train_COATT_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200_mix/model.weights
+Reading model parameters from train/ensemble_train_COATT_fixed_200/model.weights

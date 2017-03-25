@@ -1,0 +1,12 @@
+data/*
+.idea/*
+*.pyc
+*.DS_Store
+*.xml
+train/*
+log/* # inlcude logs
+*.pkl
+'train copy'/*
+*.git
+*.json
+.git/*
